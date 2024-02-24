@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jovan Milinkovic</h1>
-<h3 align="center">Data Scientist and MSc Student on Faculty of Electronic Engineering in Nis</h3>
+<h3 align="center">MSc Student on Faculty of Electronic Engineering in Nis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovanmilinkovic&label=Profile%20views&color=0e75b6&style=flat" alt="jovanmilinkovic" /> </p>
 
