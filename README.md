@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovanmilinkovic&label=Profile%20views&color=0e75b6&style=flat" alt="jovanmilinkovic" /> </p>
 
-- 🌱 I’m currently learning **Python, R, Power BI, Tableau,**
-
 - 📫 How to reach me **j.milinkovic09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
